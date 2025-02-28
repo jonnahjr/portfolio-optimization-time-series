@@ -1,56 +1,61 @@
-# 📈 Time Series Forecasting for Portfolio Management Optimization
-
-This repository provides a solution for time series forecasting of financial assets using **ARIMA, SARIMA, and LSTM** models. The goal is to **predict market trends 📊 and optimize portfolio performance 💰** for **GMF Investments**, improving **decision-making** and **risk management**.
 
 ---
 
-## 📌 Business Need
-GMF Investments aims to enhance **portfolio management** by leveraging **predictive analytics 🤖**, optimizing **asset allocations**, and minimizing **risks ⚠️** through accurate **market forecasting**.
+# 📈 **Time Series Forecasting for Portfolio Management Optimization**
+
+Welcome to the **Time Series Forecasting** solution for **GMF Investments**! 🚀 This repository provides cutting-edge market trend predictions using **ARIMA**, **SARIMA**, and **LSTM** models, all aimed at optimizing **portfolio performance 💰**, improving **decision-making** 🧠, and minimizing **risk** ⚠️.
 
 ---
 
-## 🎯 Objective
-✅ **Data Preprocessing**: Clean and analyze **historical financial data** from assets like **TSLA, BND, and SPY**.
-✅ **Time Series Forecasting**: Implement **ARIMA, SARIMA, and LSTM** models for market trend prediction.
-✅ **Portfolio Optimization**: Use forecasts to **adjust portfolio allocations** for better **returns 📈 and risk management**.
+## 📌 **Business Need**
+GMF Investments is looking to elevate **portfolio management** by integrating **predictive analytics 🤖** to **optimize asset allocations** and reduce **risks ⚠️**, all through precise **market forecasting**.
 
 ---
 
-## 📊 Data
-We use **historical financial data** for three key assets:
+## 🎯 **Objective**
+✅ **Data Preprocessing**: Cleanse and explore **historical financial data** from assets such as **TSLA**, **BND**, and **SPY**.  
+✅ **Time Series Forecasting**: Deploy **ARIMA**, **SARIMA**, and **LSTM** models for accurate market trend predictions.  
+✅ **Portfolio Optimization**: Leverage predictions to **adjust portfolio allocations**, driving **better returns 📈** and enhanced **risk management**.
+
+---
+
+## 📊 **Data**
+Our analysis uses historical financial data for these three key assets:
 - **📌 Tesla (TSLA)**: Stock prices (**Open, High, Low, Close**), **Volume**, and **Volatility**.
 - **📌 Vanguard Total Bond Market ETF (BND)**.
 - **📌 S&P 500 ETF (SPY)**.
 
-📅 **Data Source**: [YFinance](https://pypi.org/project/yfinance/)
-📆 **Time Period**: January 1, 2015 - December 31, 2024
+📅 **Data Source**: [YFinance](https://pypi.org/project/yfinance/)  
+📆 **Time Period**: From **January 1, 2015** to **December 31, 2024**
 
 ---
 
-## ⚙️ Setup
-### 1️⃣ Clone the Repository
+## ⚙️ **Setup**
+### 1️⃣ **Clone the Repository**
 ```bash
- git clone https://github.com/jonnahjr/portfolio-optimization-time-series.git
+git clone https://github.com/jonnahjr/portfolio-optimization-time-series.git
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ **Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Navigate to Scripts Directory
+### 3️⃣ **Navigate to Scripts Directory**
 ```bash
 cd scripts
 ```
 
-### 4️⃣ Run the Main Script
+### 4️⃣ **Run the Main Script**
 ```bash
 python main.py
 ```
 
 ---
 
-## 📂 Project Structure
+## 📂 **Project Structure**
+
+```
 📂 project/
 ├── 📁 data/                      # Raw and processed data for analysis
 ├── 📁 models/                    # Forecasting models (ARIMA, SARIMA, LSTM)
@@ -63,11 +68,11 @@ python main.py
 ├── 📁 .github/
 │   └── 📁 workflows/             # GitHub Actions CI/CD pipeline
 └── 📁 figures/                   # Images and plots generated during analysis
-
+```
 
 ---
 
-## 📞 Contact Information
+## 📞 **Contact Information**
 👤 **Name**: Yonas Bogale Sitotaw  
 🐙 **GitHub**: [jonnahjr](https://github.com/jonnahjr)  
 📧 **Email**: [jonnahjr@gmail.com](mailto:jonnahjr@gmail.com)  
@@ -75,7 +80,9 @@ python main.py
 
 ---
 
-## ⚖️ License
-This project is **licensed under the MIT License** - see the [LICENSE](LICENSE) file for details.
+## ⚖️ **License**
+This project is **licensed under the MIT License** — see the [LICENSE](LICENSE) file for full details.
 
-🚀 Happy Coding! 🎯
+🚀 **Happy Coding! 🎯**
+
+---
