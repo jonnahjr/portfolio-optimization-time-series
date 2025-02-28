@@ -33,7 +33,7 @@ We are working with historical financial data for these **key assets**:
 ## ⚙️ **Setup**
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/Getachew0557/PortfolioManagementOptimizationTimeSeries-.git
+git clone https://github.com/jonnahjr/portfolio-optimization-time-series.git
 ```
 
 ### 2️⃣ **Install Dependencies**
