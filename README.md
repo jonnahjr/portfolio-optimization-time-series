@@ -192,7 +192,7 @@ Moving Average Crossover:
 ---
 
 ## 👨‍💻 **Authors**
-This project was completed by **Tadesse Abateneh** 🚀.
+This project was completed by **Yonas Bogale** 🚀.
 
 For more info or collaboration, feel free to reach out! 👇
 
