@@ -1,4 +1,3 @@
-Here’s your project overview with a cooler tone and fun emojis, along with your name and socials added:
 
 ---
 
@@ -203,4 +202,3 @@ For more info or collaboration, feel free to reach out! 👇
 
 ---
 
-**Let’s forecast the future 📈 and make smart portfolio decisions! 💼**
